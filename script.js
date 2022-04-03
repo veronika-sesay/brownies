@@ -35,14 +35,6 @@ const anoChciVidetPostup = () => {
 
 setTimeout(anoChciVidetPostup, 6000);
 
-/*setTimeout(() => {
-  if (odpoved === 'ano') {
-    postup.classList.remove('recipe__instructions--hide');
-  } else {
-    document.body.innerHTML += `<h3>Tak si nejdřív nakup a pak ti povím co s tím.</h3>`;
-  }
-}, 6000);*/
-
 //Funkce na brownies :-)
 
 const rozpustenaCokolada = (cokolada, maslo) => {
