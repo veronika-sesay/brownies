@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  background-color: #f6ece9;
+  color: #24120e;
+  font-family: 'Varela Round', sans-serif;
+}
+
+h1 {
+  font-family: 'Babylonica', cursive;
+  font-size: 60px;
+  margin-top: 5%;
+  margin-bottom: 2%;
+  color: #24120e;
+}
+
+h2 {
+  font-family: 'Babylonica', cursive;
+  font-size: 36px;
+  color: #24120e;
+  margin-bottom: 1%;
+}
+
+h3 {
+  font-family: 'Varela Round', sans-serif;
+  font-size: 80px;
+  text-align: center;
+  margin: 15%;
+}
+
+#brownies {
+  max-width: 35%;
+  float: left;
+  margin: 0% 5% 40% 2%;
+  border-radius: 3%;
+}
+
+li {
+  padding-inline-start: 5px;
+  margin-bottom: 2px;
+}
+
+.recipe {
+  max-width: 95%;
+}
+
+.recipe__hide {
+  display: none;
+}
+
+.recipe__instructions--hide {
+  display: none;
+}
+
+#bonapetit {
+  font-family: 'Babylonica', cursive;
+  font-size: 18px;
+}
